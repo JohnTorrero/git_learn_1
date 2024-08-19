@@ -1,3 +1,7 @@
 second hello world ( after deleted one )
 second row
 thanks for your time
+
+adding feature
+не можу зрозуміти, переключився на features, додаю текст, роблю коміт, переключюсь на мейн
+а там теж саме! якого хрєна а?)ew;lagjperjog'apreiog'iergh
